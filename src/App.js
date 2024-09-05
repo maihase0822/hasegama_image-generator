@@ -54,7 +54,6 @@ function App() {
           >
             Generate Image
           </button>
-          <p>{imageUrl}</p>
           <p>
             <img src={imageUrl} className="generated-image"></img>
           </p>
