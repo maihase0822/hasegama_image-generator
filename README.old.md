@@ -1,0 +1,1 @@
+# hasegama_image-generator
